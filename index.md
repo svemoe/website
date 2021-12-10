@@ -2,5 +2,4 @@
 
 To my personal website!
 
-Expect content soon!
-- or maybe not :^)
+[Learn my workflow for building this website.](static-website.html)
