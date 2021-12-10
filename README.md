@@ -1,8 +1,9 @@
 # Building a static website
 
-## Source files
 
 Here I describe how I (automatically) build my website.
+
+## Source files
 
 The pages are written in `markdown` format.
 
