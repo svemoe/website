@@ -6,7 +6,7 @@ Here I describe how I (automatically) build my website.
 
 The pages are written in `markdown` format.
 
-I have to `html` documents, `_header.html` and `_footer.html`.
+I have two `html` documents, `_header.html` and `_footer.html`.
 They get added at the beginning and the end of the page (respectively).
 So I can change something in the header or the footer and it will change on all pages.
 
