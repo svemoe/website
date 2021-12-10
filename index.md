@@ -1,7 +1,7 @@
 # Willkommen!
 
 Auf meiner persönlichen Webseite.
-jjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjj
 Dies ist eine [statische Seite](statische-seite.html), bestehend nur aus html (Inhalt) und ein wenig css (Aussehen), um die Lesbarkeit zu verbessern.
 Dadurch wird der Fokus auf den Inhalt gelenkt, denn darauf kommt es am Ende an.
 Sie ist sowohl am PC als auch am Smartphone gut lesbar und wendet [auf Wunsch](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme) ein dunkles Farbschema an.
