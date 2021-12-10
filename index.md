@@ -2,7 +2,7 @@
 
 Auf meiner persönlichen Webseite.
 
-Test TEst.
+Test Test.
 
 Dies ist eine [statische Seite](statische-seite.html), bestehend nur aus html (Inhalt) und ein wenig css (Aussehen), um die Lesbarkeit zu verbessern.
 Dadurch wird der Fokus auf den Inhalt gelenkt, denn darauf kommt es am Ende an.
