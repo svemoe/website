@@ -1,7 +1,7 @@
 MD2HTML := pandoc
 
 SRCS := $(wildcard *.md)
-DST_DIR := ./dst
+DST_DIR ?= dst
 
 all: $(SRCS:%.md=%.html)
 
