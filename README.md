@@ -24,3 +24,7 @@ with header and footer added) to the folder.
 I convert them to `html` using `pandoc`, but every other converter would do.
 
 `make clean` will remove the destination folder and all its contents.
+
+## Deployment
+
+## Workflow
