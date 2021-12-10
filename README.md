@@ -27,4 +27,18 @@ I convert them to `html` using `pandoc`, but every other converter would do.
 
 ## Deployment
 
+I use `git` for version control.
+The changes get pushed to a bare repo on my server.
+
+There I have a `post-receive` hook that checks out the work tree to a folder on the server.
+
+The hook then runs `make clean` and `make` inside this folder.
+This builds the website to the destination folder.
+
+I have `nginx` set up to serve content from this destination folder.
+
 ## Workflow
+
+I make changes to the site by editing the local `markdown` files.
+Then I commit the changes to my hit repo.
+When I push the changes to the server the `git` hook will take care of the rest.
