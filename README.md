@@ -1,4 +1,6 @@
-# Building a static website
+---
+title: Building a static website
+---
 
 
 Here I describe how I (automatically) build my website.

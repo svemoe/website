@@ -1,4 +1,6 @@
-# Welcome!
+---
+title: Welcome!
+---
 
 To my personal website!
 
