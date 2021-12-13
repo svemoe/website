@@ -26,7 +26,7 @@ Removes the target directory.
 The pages are written in `markdown` format.
 The title of the page is defined in a `yaml` block at the beginning of the file.
 
-The `markdown` files get converted by `pandoc` to `html` using the file `template.html` as a template.
+The `template.html` gets used by `pandoc` to convert the pages to `html`.
 
 The appearance of the website is defined in `style.css`.
 
@@ -34,10 +34,10 @@ The `Makefile` contains the recipe for building the website from source.
 
 ## Deployment
 
-I have a `post-receive` hook that checks out the work tree to a directory on the server.
+I have a `git post-receive` hook that checks out the work tree to a directory on the server.
 
 The hook then runs `make` inside this directory.
-The target directory points to the place from where I serve the page with `nginx`.
+`DST_DIR` points to the place from where I serve the page with `nginx`.
 
 ## See also
 
