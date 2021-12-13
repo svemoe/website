@@ -4,4 +4,7 @@ title: Welcome!
 
 To my personal website!
 
-[Learn my workflow for building this website.](README.html)
+[How I build this site](README.html)
+
+[GitHub](https://github.com/svemoe)
+[GitLab](/https://gitlab.com/svemoe)
