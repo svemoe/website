@@ -4,6 +4,9 @@ title: Sources for my personal website
 
 See <https://svenmoeller.xyz>
 
+* [GitHub Mirror](https://github.com/svemoe/website)
+* [GitLab Mirror](https://gitlab.com/svemoe/website)
+
 ## Prerequisites
 
 - [Pandoc](https://pandoc.org/)
