@@ -56,3 +56,7 @@ I have `nginx` set up to serve content from this destination folder.
 I make changes to the site by editing the local `markdown` files.
 Then I commit the changes to my hit repo.
 When I push the changes to the server the `git` hook will take care of the rest.
+
+## See also
+
+- https://toroid.org/git-website-howto
