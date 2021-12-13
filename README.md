@@ -7,7 +7,6 @@ See <https://svenmoeller.xyz>
 ## Prerequisites
 
 - `pandoc`
-- `git`
 - `make`
 
 ## Build instructions
