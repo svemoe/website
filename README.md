@@ -25,11 +25,12 @@ The title of the page is defined in a `yaml` block at the beginning of the file.
 
 The `markdown` files get converted to `html` using the file `template.html` as a template.
 
-The style is defined in a style sheet called `style.css`.
+The appearance of the website is defined in `style.css`.
+
+The `Makefile` contains the recipe for building the website from source.
 
 ## Build process
 
-I use a `Makefile` for building the website.
 The destination folder for building defaults to `./dst` but can be changed with the environment variable `DST_DIR`.
 
 The default target (`make all`) creates the destination folder
