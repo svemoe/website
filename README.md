@@ -6,7 +6,7 @@ See <https://svenmoeller.xyz>
 
 ## Prerequisites
 
-- [Pando](https://pandoc.org/)
+- [Pandoc](https://pandoc.org/)
 - [GNU make](https://www.gnu.org/software/make/)
 
 ## Build instructions
