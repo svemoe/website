@@ -1,14 +1,20 @@
-MD2HTML := pandoc --template template.html
-
-SRCS := $(wildcard *.md)
 DST_DIR ?= dst
 
-all: $(SRCS:%.md=%.html)
+SRCS := $(wildcard *.md)
+DSTS := $(SRCS:%.md=$(DST_DIR)/%.html)
 
-%.html: %.md
-	mkdir -p $(DST_DIR)
-	cp style.css $(DST_DIR)
-	$(MD2HTML) $< -o $(DST_DIR)/$@
+.PHONY: all clean
+
+all: $(DSTS) $(DST_DIR)/style.css
+
+$(DST_DIR)/%.html: %.md template.html | $(DST_DIR)
+	pandoc --template template.html $< -o $@
+
+$(DST_DIR)/style.css: style.css | $(DST_DIR)
+	cp $< $@
+
+$(DST_DIR):
+	mkdir -p $@
 
 clean:
 	rm -rvf $(DST_DIR)
