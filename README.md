@@ -1,6 +1,4 @@
----
-title: Sources for my personal website
----
+# Sources for my personal website
 
 See <https://svenmoeller.xyz>
 

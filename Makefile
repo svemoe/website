@@ -8,7 +8,8 @@ DSTS := $(SRCS:%.md=$(DST_DIR)/%.html)
 all: $(DSTS) $(DST_DIR)/style.css
 
 $(DST_DIR)/%.html: %.md template.html | $(DST_DIR)
-	pandoc --template template.html $< -o $@
+	title=$$(sed -nE 's/^#\s+//p' $<); \
+	pandoc --template template.html --metadata title="$$title" -o $@ $<
 
 $(DST_DIR)/style.css: style.css | $(DST_DIR)
 	cp $< $@
