@@ -1,6 +1,6 @@
 # Sources for my personal website
 
-See <https://svenmoeller.xyz>
+<https://svenmoeller.xyz>
 
 * [GitHub Mirror](https://github.com/svemoe/website)
 * [GitLab Mirror](https://gitlab.com/svemoe/website)
@@ -14,7 +14,7 @@ See <https://svenmoeller.xyz>
 
     make
 
-Will build it to the target directory.
+Will build the website to the target directory.
 Standard is `./dst/`, can be changed with `DST_DIR`.
 
     make clean
@@ -24,7 +24,8 @@ Removes the target directory.
 ## Source files
 
 The pages are written in `markdown` format.
-The title of the page is defined in a `yaml` block at the beginning of the file.
+The level 1 heading will be used as title of the page.
+Links with the extension `.md` will be changed to `.html`.
 
 The `template.html` gets used by `pandoc` to convert the pages to `html`.
 
@@ -39,6 +40,6 @@ I have a `git post-receive` hook that checks out the work tree to a directory on
 The hook then runs `make` inside this directory.
 `DST_DIR` points to the place from where I serve the page with `nginx`.
 
-## See also
+### See also 
 
 - <https://toroid.org/git-website-howto>
