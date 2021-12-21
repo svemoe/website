@@ -9,7 +9,7 @@ all: $(DSTS) $(DST_DIR)/style.css
 
 $(DST_DIR)/%.html: %.md template.html | $(DST_DIR)
 	title=$$(sed -nE 's/^#\s+//p' $<); \
-	sed 's/\.md/\.html/g' $< | pandoc --template template.html --metadata title="$$title" -o $@
+	sed 's/\.md)/\.html)/g' $< | pandoc --template template.html --metadata title="$$title" -o $@
 
 $(DST_DIR)/style.css: style.css | $(DST_DIR)
 	cp $< $@
