@@ -9,6 +9,7 @@
 
 - [Pandoc](https://pandoc.org/)
 - [GNU make](https://www.gnu.org/software/make/)
+- `rsync`
 
 ## Build instructions
 
