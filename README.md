@@ -29,7 +29,7 @@ Links with the extension `.md` will be changed to `.html`.
 
 The `template.html` gets used by `pandoc` to convert the pages to `html`.
 
-The appearance of the website is defined in `style.css`.
+The contents of the `static` folder are copied to the target directory verbatim.
 
 The `Makefile` contains the recipe for building the website from source.
 
