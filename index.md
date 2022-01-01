@@ -17,7 +17,7 @@ This is my personal website.
 
 ## On this site
 
-* [My Bookmarks](bookkmarks)
+* [My Bookmarks](bookmarks)
 
 ## External Links
 
