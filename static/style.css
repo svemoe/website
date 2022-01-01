@@ -5,7 +5,7 @@ body {
 	font-family: monospace;
 }
 
-h1,h2 {
+h1,h2,h3 {
  color: #EF6C01;
 }
 
@@ -15,6 +15,10 @@ h1:before {
 
 h2:before {
  content: "## ";
+}
+
+h3:before {
+ content: "### ";
 }
 
 a:before {
@@ -58,9 +62,26 @@ ul li::before {
  color: #DAA521
 }
 
+code {
+ background: #8C8C8C;
+}
+
+pre code {
+ background: black;
+}
+
+pre {
+ margin-left: 50px;
+ font:125% monospace;
+}
+
 @media (prefers-color-scheme: dark) {
 	body {
 		background: black ;
 		color: white ;
 	}
+
+ pre code {
+  background: black;
+ }
 }
