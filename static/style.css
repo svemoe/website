@@ -2,22 +2,65 @@ body {
 	max-width: 800px ;
 	margin: 16px auto ;
 	padding: 0 16px ;
-	font-family: sans-serif;
+	font-family: monospace;
 }
 
-a[href^="https://"]:not([href*="svenmoeller.xyz"]):after {
-     content: " " url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVklEQVR4Xn3PgQkAMQhDUXfqTu7kTtkpd5RA8AInfArtQ2iRXFWT2QedAfttj2FsPIOE1eCOlEuoWWjgzYaB/IkeGOrxXhqB+uA9Bfcm0lAZuh+YIeAD+cAqSz4kCMUAAAAASUVORK5CYII=);
+h1,h2 {
+ color: #EF6C01;
+}
+
+h1:before {
+ content: "# ";
+}
+
+h2:before {
+ content: "## ";
+}
+
+a:before {
+ content: "["
+}
+
+a:after {
+ content: "]"
+}
+
+a {
+ text-decoration: none;
+ color: #20A2FE
+}
+
+blockquote p::before {
+ color: #87B04C;
+}
+
+blockquote p:before {
+ content: "> "
+}
+
+blockquote {
+ margin-left: 0px;
+}
+
+ul {
+ padding-left: 0;
+}
+
+ul li {
+ list-style: none;
+}
+
+ul li:before {
+ content: "* ";
+}
+
+ul li::before {
+ color: #DAA521
 }
 
 @media (prefers-color-scheme: dark) {
 	body {
-		background: #151515 ;
+		background: black ;
 		color: white ;
-	}
-	a {
-		color: lightblue ;
-	}
-	a:visited {
-		color: gray ;
 	}
 }

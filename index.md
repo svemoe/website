@@ -15,7 +15,11 @@ This is my personal website.
 * [This website](README.md)
 * [Bookmarking script](https://gitlab.com/svemoe/dotfiles/-/blob/master/bin/.local/bin/bm)
 
-## Links
+## On this site
+
+
+
+## External Links
 
 * [GitHub](https://github.com/svemoe)
 * [GitLab](https://gitlab.com/svemoe)
