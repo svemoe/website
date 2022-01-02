@@ -21,5 +21,5 @@ This is my personal website.
 
 ## External Links
 
-* [GitHub](https://github.com/svemoe)
-* [GitLab](https://gitlab.com/svemoe)
+* [My GitHub Profile](https://github.com/svemoe)
+* [My GitLab Profile](https://gitlab.com/svemoe)
