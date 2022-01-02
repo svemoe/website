@@ -67,12 +67,12 @@ code {
 }
 
 pre code {
- background: black;
+ background: white;
 }
 
 pre {
  margin-left: 50px;
- font:125% monospace;
+ font:115% monospace;
 }
 
 @media (prefers-color-scheme: dark) {
