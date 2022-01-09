@@ -18,6 +18,7 @@ This is my personal website.
 ## On this site
 
 * [My Bookmarks](bookmarks)
+* [My git server](git)
 
 ## External Links
 
