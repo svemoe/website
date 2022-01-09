@@ -1,7 +1,7 @@
 # Sources for my personal website
 <https://svenmoeller.xyz>
 
-* [Local Mirror](https://svenmoeller.xyz/git/website)
+* [Local Mirror](https://svenmoeller.xyz/git/website/files.html)
 * [GitHub Mirror](https://github.com/svemoe/website)
 * [GitLab Mirror](https://gitlab.com/svemoe/website)
 
