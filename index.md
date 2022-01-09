@@ -13,7 +13,7 @@ This is my personal website.
 > and projects you abandoned.
 
 * [This website](README.md)
-* [Bookmarking script](https://gitlab.com/svemoe/dotfiles/-/blob/master/bin/.local/bin/bm)
+* [Bookmarking script](https://svenmoeller.xyz/git/dotfiles/file/bin/.local/bin/bm.html)
 
 ## On this site
 
