@@ -19,6 +19,7 @@ This is my personal website.
 
 * [My Bookmarks](bookmarks)
 * [My git server](git)
+* [Website I made in school](https://the-berlin-blues.svenmoeller.xyz)
 
 ## External Links
 
