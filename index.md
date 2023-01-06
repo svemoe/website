@@ -8,8 +8,7 @@ This is my personal website.
 
 ## On this site
 
-* [My git server](https://git.svenmoeller.xyz)
-* [Website I made in school](https://the-berlin-blues.svenmoeller.xyz)
+* [My git server](https://git.svemoe.de)
 
 ## External Links
 
