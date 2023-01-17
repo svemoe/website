@@ -6,18 +6,19 @@
 
 - Xiaomi Mi Notebook Air 13,3″ (2016)
 - Battery was bulging and is removed
-- Running Arch Linux
+- Running [Arch Linux](https://archlinux.org/)
 
 ### Smartphone
 
 - Google Pixel 4a (2020)
 - Unlocked Bootloader
-- Running LineageOs 20
+- Running [LineageOS](https://lineageos.org/) 20
 
 ### Other
 
 - Keyboard: Logitech K270
 - Headphones: Koss PortaPro
+- Wrist Watch: Casio GW-5610
 - E-Book: PocketBook Touch Lux 5 (2020)
 - Flightsim: Thrustmaster T.Flight Hotas + TFRP
 
@@ -29,45 +30,47 @@
 - Terminal Emulator: [st](https://st.suckless.org/)
 - Terminal Multiplexer: [tmux](https://github.com/tmux)
 - Music Player: [mpd](https://www.musicpd.org/) + [ncmpcpp](https://rybczak.net/ncmpcpp/)
-- Video Player: mpv
-- Interactive Shell: Bash
-- Bittorent: Transmission + tremc
-- Editor: neovim
-- E-Mail: isync + neomutt + notmuch
-- File synchronization: syncthing
+- Video Player: [mpv](https://mpv.io/)
+- Interactive Shell: [Bash](https://www.gnu.org/software/bash/)
+- Bittorent: [Transmission](https://transmissionbt.com/) + [tremc](https://github.com/tremc/tremc)
+- Editor: [neovim](https://neovim.io/)
+- E-Mail: [isync](https://isync.sourceforge.io/) + [neomutt](https://neomutt.org/) + [notmuch](https://notmuchmail.org/)
+- File synchronization: [syncthing](https://syncthing.net/)
+- Password Manager: [gopass](https://www.gopass.pw/)
 
 ### On Server
 
-- HTTP server + reverse proxy: nginx
-- RSS feed aggregator: FreshRSS
-- XMPP + Unified Push: prosody
+- HTTP server + reverse proxy: [nginx](https://nginx.org/)
+- RSS feed aggregator: [FreshRSS](https://freshrss.org/)
+- XMPP + Unified Push: [prosody](https://prosody.im/)
 
 ### Apps
 
-- App-Store: F-Droid
-- Browser: Fennec (Firefox Fenix fork from F-Droid
-- Notes: Markor
-- E-Mail: K-9 Mail
-- CalDAV/CardDAV: DAVx5
-- Calendar: Etar (integrated in LineageOS)
-- XMPP + Unified Push: Conversations
-- Signal: Molly
-- Music + Video Player: VLC
-- mpd client: M.A.L.P
-- Youtube: NewPipe
-- Root: Magisk
-- tts: eSpeak NG
+- App-Store: [F Droid](https://f-droid.org/)
+- Browser: Fennec (Firefox [Fenix](https://github.com/mozilla-mobile/fenix) fork from F-Droid
+- Notes: [Markor](https://gsantner.net/project/markor.html)
+- E-Mail: [K-9 Mail](https://k9mail.app/)
+- CalDAV/CardDAV: [DAVx5](https://www.davx5.com/)
+- Calendar: [Etar](https://github.com/Etar-Group/Etar-Calendar) (integrated in LineageOS)
+- XMPP + Unified Push: [Conversations](https://conversations.im/)
+- [Signal](https://signal.org/): [Molly](https://molly.im/)
+- Music + Video Player: [VLC](https://www.videolan.org/vlc/download-android.html)
+- mpd client: [M.A.L.P](https://gitlab.com/gateship-one/malp)
+- Youtube: [NewPipe](https://newpipe.net/)
+- Root: [Magisk](https://github.com/topjohnwu/Magisk)
+- tts: [eSpeak NG](https://github.com/espeak-ng/espeak-ng)
 
 ### Browser Addons
 
-- uBlock origin
-- Decentraleyes
-- vimium
-- Privacy Redirect
-- Gopass autofill
-- offline-qr-code
+- [uBlock origin](https://github.com/gorhill/uBlock)
+- [Decentraleyes](https://decentraleyes.org/)
+- [vimium](https://github.com/philc/vimium)
+- [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect)
+- [Gopass Bridge](https://github.com/gopasspw/gopassbridge)
+- [offline-qr-code](https://github.com/rugk/offline-qr-code)
+- [Awesome RSS](https://github.com/shgysk8zer0/awesome-rss)
 
 ## Paid Services
 
-- E-Mail + CalDAV/CardDav: mailbox.org
-- VPS + Domain Name: netcup
+- E-Mail + CalDAV/CardDav: [mailbox org](https://mailbox.org)
+- VPS + Domain Name: [netcup](https://www.netcup.de/)
