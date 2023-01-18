@@ -26,50 +26,50 @@
 
 ### On Laptop
 
-- Window Manager: [dwm](https://dwm.suckless.org/)
+- Window Manager: [dwm](https://dwm.suckless.org/) [donate](https://suckless.org/donations/)
 - Browser: Firefox
-- File Manager: pcmanfm
+- File Manager: [pcmanfm](https://sourceforge.net/projects/pcmanfm/)
 - E-Book Manager: [calibre](https://calibre-ebook.com/)
-- Terminal Emulator: [st](https://st.suckless.org/)
-- Terminal Multiplexer: [tmux](https://github.com/tmux)
+- Terminal Emulator: [st](https://st.suckless.org/) [donate](https://suckless.org/donations/)
+- Terminal Multiplexer: [tmux](https://github.com/tmux/tmux)
 - Music Player: [mpd](https://www.musicpd.org/) + [ncmpcpp](https://rybczak.net/ncmpcpp/)
 - Video Player: [mpv](https://mpv.io/)
 - Interactive Shell: [Bash](https://www.gnu.org/software/bash/)
-- Bittorent: [Transmission](https://transmissionbt.com/) + [tremc](https://github.com/tremc/tremc)
-- Editor: [neovim](https://neovim.io/)
-- E-Mail: [isync](https://isync.sourceforge.io/) + [neomutt](https://neomutt.org/) + [notmuch](https://notmuchmail.org/)
-- File synchronization: [syncthing](https://syncthing.net/)
+- Bittorent: [Transmission](https://transmissionbt.com/) [donate](https://transmissionbt.com/donate) + [tremc](https://github.com/tremc/tremc)
+- Editor: [neovim](https://neovim.io/) [donate](https://neovim.io/#sponsor)
+- E-Mail: [isync](https://isync.sourceforge.io/) + [neomutt](https://neomutt.org/) [donate](https://neomutt.org/sponsor) + [notmuch](https://notmuchmail.org/)
+- File synchronization: [syncthing](https://syncthing.net/) [donate](https://syncthing.net/donations/)
 - Password Manager: [gopass](https://www.gopass.pw/)
 
 ### On Server
 
 - HTTP server + reverse proxy: [nginx](https://nginx.org/)
-- RSS feed aggregator: [FreshRSS](https://freshrss.org/)
+- RSS feed aggregator: [FreshRSS](https://freshrss.org/) [donate](https://liberapay.com/FreshRSS)
 - XMPP + Unified Push: [prosody](https://prosody.im/)
 
 ### Apps
 
-- App-Store: [F Droid](https://f-droid.org/)
+- App-Store: [F Droid](https://f-droid.org/) [donate](https://f-droid.org/donate/)
 - Browser: Fennec (Firefox [Fenix](https://github.com/mozilla-mobile/fenix) fork from F-Droid
 - Notes: [Markor](https://gsantner.net/project/markor.html)
-- E-Mail: [K-9 Mail](https://k9mail.app/)
-- CalDAV/CardDAV: [DAVx5](https://www.davx5.com/)
+- E-Mail: [K-9 Mail](https://k9mail.app/) [donate](https://k9mail.app/contribute#donation)
+- CalDAV/CardDAV: [DAVx5](https://www.davx5.com/) [donate](https://www.davx5.com/donate)
 - Calendar: [Etar](https://github.com/Etar-Group/Etar-Calendar) (integrated in LineageOS)
-- XMPP + Unified Push: [Conversations](https://conversations.im/)
-- [Signal](https://signal.org/): [Molly](https://molly.im/)
-- Music + Video Player: [VLC](https://www.videolan.org/vlc/download-android.html)
+- XMPP + Unified Push: [Conversations](https://conversations.im/) [donate](https://conversations.im/#donate)
+- [Signal](https://signal.org/): [Molly](https://molly.im/) [donate](https://molly.im/#projects)
+- Music + Video Player: [VLC](https://www.videolan.org/vlc/download-android.html) [donate](https://www.videolan.org/contribute.html#money)
 - mpd client: [M.A.L.P](https://gitlab.com/gateship-one/malp)
-- Youtube: [NewPipe](https://newpipe.net/)
+- Youtube: [NewPipe](https://newpipe.net/) [donate](https://newpipe.net/donate/)
 - Root: [Magisk](https://github.com/topjohnwu/Magisk)
-- Terminal Emulator: [Termux](https://termux.dev)
+- Terminal Emulator: [Termux](https://termux.dev) [donate](https://termux.dev/en/donate)
 - tts: [eSpeak NG](https://github.com/espeak-ng/espeak-ng)
 
 ### Browser Addons
 
 - [uBlock origin](https://github.com/gorhill/uBlock)
-- [Decentraleyes](https://decentraleyes.org/)
+- [Decentraleyes](https://decentraleyes.org/) [donate](https://decentraleyes.org/donate/)
 - [vimium](https://github.com/philc/vimium)
-- [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect)
+- [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) [donate](https://github.com/SimonBrazell/privacy-redirect#donate)
 - [Gopass Bridge](https://github.com/gopasspw/gopassbridge)
 - [offline-qr-code](https://github.com/rugk/offline-qr-code)
 - [Awesome RSS](https://github.com/shgysk8zer0/awesome-rss) [donate](https://github.com/shgysk8zer0/awesome-rss#donate-via)
