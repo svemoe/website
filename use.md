@@ -27,6 +27,9 @@
 ### On Laptop
 
 - Window Manager: [dwm](https://dwm.suckless.org/)
+- Browser: Firefox
+- File Manager: pcmanfm
+- E-Book Manager: [calibre](https://calibre-ebook.com/)
 - Terminal Emulator: [st](https://st.suckless.org/)
 - Terminal Multiplexer: [tmux](https://github.com/tmux)
 - Music Player: [mpd](https://www.musicpd.org/) + [ncmpcpp](https://rybczak.net/ncmpcpp/)
@@ -58,6 +61,7 @@
 - mpd client: [M.A.L.P](https://gitlab.com/gateship-one/malp)
 - Youtube: [NewPipe](https://newpipe.net/)
 - Root: [Magisk](https://github.com/topjohnwu/Magisk)
+- Terminal Emulator: [Termux](https://termux.dev)
 - tts: [eSpeak NG](https://github.com/espeak-ng/espeak-ng)
 
 ### Browser Addons
@@ -70,7 +74,8 @@
 - [offline-qr-code](https://github.com/rugk/offline-qr-code)
 - [Awesome RSS](https://github.com/shgysk8zer0/awesome-rss)
 
-## Paid Services
+## Services
 
 - E-Mail + CalDAV/CardDav: [mailbox org](https://mailbox.org)
 - VPS + Domain Name: [netcup](https://www.netcup.de/)
+- TLS CA: Let's Encrypt
