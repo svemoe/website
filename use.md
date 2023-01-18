@@ -72,10 +72,10 @@
 - [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect)
 - [Gopass Bridge](https://github.com/gopasspw/gopassbridge)
 - [offline-qr-code](https://github.com/rugk/offline-qr-code)
-- [Awesome RSS](https://github.com/shgysk8zer0/awesome-rss)
+- [Awesome RSS](https://github.com/shgysk8zer0/awesome-rss) [donate](https://github.com/shgysk8zer0/awesome-rss#donate-via)
 
 ## Services
 
-- E-Mail + CalDAV/CardDav: [mailbox org](https://mailbox.org)
-- VPS + Domain Name: [netcup](https://www.netcup.de/)
-- TLS CA: Let's Encrypt
+- E-Mail + CalDAV/CardDav: [mailbox org](https://mailbox.org) (paid)
+- VPS + Domain Name: [netcup](https://www.netcup.de/) (paid)
+- TLS CA: [Let's Encrypt](https://letsencrypt.org/) [donate](https://letsencrypt.org/donate/)
