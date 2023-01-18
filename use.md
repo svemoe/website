@@ -6,7 +6,7 @@
 
 - Xiaomi Mi Notebook Air 13,3″ (2016)
 - Battery was bulging and is removed
-- Running [Arch Linux](https://archlinux.org/)
+- Running [Arch Linux](https://archlinux.org/) [donate](https://archlinux.org/donate/)
 
 ### Smartphone
 
@@ -56,7 +56,7 @@
 - CalDAV/CardDAV: [DAVx5](https://www.davx5.com/) [donate](https://www.davx5.com/donate)
 - Calendar: [Etar](https://github.com/Etar-Group/Etar-Calendar) (integrated in LineageOS)
 - XMPP + Unified Push: [Conversations](https://conversations.im/) [donate](https://conversations.im/#donate)
-- [Signal](https://signal.org/): [Molly](https://molly.im/) [donate](https://molly.im/#projects)
+- [Signal](https://signal.org/) [donate](https://signal.org/donate/) client: [Molly](https://molly.im/) [donate](https://molly.im/#projects)
 - Music + Video Player: [VLC](https://www.videolan.org/vlc/download-android.html) [donate](https://www.videolan.org/contribute.html#money)
 - mpd client: [M.A.L.P](https://gitlab.com/gateship-one/malp)
 - Youtube: [NewPipe](https://newpipe.net/) [donate](https://newpipe.net/donate/)
