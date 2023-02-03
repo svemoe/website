@@ -5,3 +5,7 @@
 ### January
 
 - suckless.org - 20€
+
+### February
+
+- Conversations - 10€

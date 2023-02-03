@@ -40,6 +40,8 @@
 - E-Mail: [isync](https://isync.sourceforge.io/) + [neomutt](https://neomutt.org/) [donate](https://neomutt.org/sponsor) + [notmuch](https://notmuchmail.org/)
 - File synchronization: [syncthing](https://syncthing.net/) [donate](https://syncthing.net/donations/)
 - Password Manager: [gopass](https://www.gopass.pw/)
+- Flightsim: [Flightgear](https://flightgear.org)
+- PIM: [vdirsyncer](https://vdirsyncer.pimutils.org/) + [khal](https://lostpackets.de/khal/) + [khard](https://github.com/lucc/khard)
 
 ### On Server
 
