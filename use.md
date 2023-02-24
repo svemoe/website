@@ -65,6 +65,7 @@
 - Root: [Magisk](https://github.com/topjohnwu/Magisk)
 - Terminal Emulator: [Termux](https://termux.dev) [donate](https://termux.dev/en/donate)
 - tts: [eSpeak NG](https://github.com/espeak-ng/espeak-ng)
+- Navigation: [OsmAnd](https://osmand.net/)
 
 ### Browser Addons
 
