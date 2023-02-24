@@ -3,6 +3,7 @@
 	ade: https://www.amazon.de/s?k=%s Amazon DE
 	aur: https://aur.archlinux.org/packages?K=%s AUR
 	aw: https://wiki.archlinux.org/index.php?search=%s ArchWiki
+	b: https://search.brave.com/search?q=%s Brave
 	gh: https://github.com/search?q=%s GitHub
 	mj: https://www.mojeek.com/search?q=%s Mojeek
 	sp: https://www.startpage.com/do/search?query=%s Startpage
