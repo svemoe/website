@@ -7,6 +7,7 @@
 	cb: https://codeberg.org/explore/repos?q=%s Codeberg
 	fd: https://search.f-droid.org/?q=%s F-Droid
 	gh: https://github.com/search?q=%s GitHub
+	lg: https://libgen.li/index.php?req=%s Library Genesis
 	mj: https://www.mojeek.com/search?q=%s Mojeek
 	sh: https://sr.ht/projects?search=%s sourcehut
 	sp: https://www.startpage.com/do/search?query=%s Startpage
