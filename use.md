@@ -26,13 +26,13 @@
 
 ### On Laptop
 
-- Window Manager: [dwm](https://dwm.suckless.org/) [donate](https://suckless.org/donations/)
+- Window Manager: [hyprland](https://hyprland.org/) [donate](https://ko-fi.com/vaxry)
 - Browser: Firefox
 - File Manager: [pcmanfm](https://sourceforge.net/projects/pcmanfm/)
 - E-Book Manager: [calibre](https://calibre-ebook.com/)
-- Terminal Emulator: [st](https://st.suckless.org/) [donate](https://suckless.org/donations/)
+- Terminal Emulator: [foot](https://codeberg.org/dnkl/foot) [donate](https://github.com/sponsors/dnkl)
 - Terminal Multiplexer: [tmux](https://github.com/tmux/tmux)
-- Music Player: [mpd](https://www.musicpd.org/) + [ncmpcpp](https://rybczak.net/ncmpcpp/)
+- Music Player: [mpd](https://www.musicpd.org/) + [ncmpcpp](https://rybczak.net/ncmpcpp/) + [mpDris2](https://github.com/eonpatapon/mpDris2)
 - Video Player: [mpv](https://mpv.io/)
 - Interactive Shell: [Bash](https://www.gnu.org/software/bash/)
 - Bittorent: [Transmission](https://transmissionbt.com/) [donate](https://transmissionbt.com/donate) + [tremc](https://github.com/tremc/tremc)
@@ -47,6 +47,7 @@
 
 - HTTP server + reverse proxy: [nginx](https://nginx.org/)
 - RSS feed aggregator: [FreshRSS](https://freshrss.org/) [donate](https://liberapay.com/FreshRSS)
+- Bookmarks: [Shaarli](https://github.com/shaarli/Shaarli)
 - XMPP + Unified Push: [prosody](https://prosody.im/)
 
 ### Apps
