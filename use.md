@@ -26,7 +26,7 @@
 
 ### On Laptop
 
-- Window Manager: [hyprland](https://hyprland.org/) [donate](https://ko-fi.com/vaxry)
+- Window Manager: [dwl](https://github.com/djpohly/dwl)
 - Browser: Firefox
 - File Manager: [pcmanfm](https://sourceforge.net/projects/pcmanfm/)
 - E-Book Manager: [calibre](https://calibre-ebook.com/)
